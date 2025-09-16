@@ -1,1 +1,1 @@
-print ("name.py")
+print "(parsarak) (kritnasak)"
